@@ -64,6 +64,7 @@ class TM_Replace_Howdy {
 			'Welcome,',
 			'Greetings,',
 			'Konnichiwa,',
+			'Logged in as:'
 		),
 		$tm_help,
 		$replace_all = false;
